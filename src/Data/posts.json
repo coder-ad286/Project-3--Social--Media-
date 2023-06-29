@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "tittle":"1st Post",
+        "date": "1  jun",
+        "text" : "Going to Code"
+    },
+    {
+        "id":2,
+        "tittle":"2st Post",
+        "date": "1  jun",
+        "text" : "Going to Code"
+    },
+    {
+        "id":3,
+        "tittle":"3st Post",
+        "date": "1  jun",
+        "text" : "Going to Code"
+    },
+    {
+        "id":4,
+        "tittle":"4st Post",
+        "date": "1  jun",
+        "text" : "Going to Code"
+    }
+]

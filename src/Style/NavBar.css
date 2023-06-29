@@ -1,0 +1,20 @@
+.link{
+    list-style: none;
+    text-decoration: none;
+    margin:0 10px 0 10px ;
+    position: relative;
+    left: 100px;
+}
+.ul{
+    display: flex;
+    position: relative;
+    left: 750px;
+}
+nav{
+    background-color: #5F9EA0;
+    position: relative;
+    bottom: 18px;
+}
+Link{
+    text-decoration: none;
+}
